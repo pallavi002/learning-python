@@ -18,13 +18,5 @@ print(2 ** 3.5) #it prints 2 raise to 3.5
 print(2.2 ** 3) #it prints 2.2 raise to 3
 print(2.2 ** 3.5) #it prints 2.2 raise to 3.5
 
-# a = True
-# if (a) 
-# {
-#   print(a)
-# } 
-# else 
-# {
-#   print('Sorry')
-# }
+
 
