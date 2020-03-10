@@ -15,13 +15,13 @@ print('Ok, lets see..')
 
 
 #max() min() example
-# first = input('Enter first number')
-# second = input('Enter Second number')
-# third = input('Enter Third number')
-# maximum = max(first, second, third)
-# minimum = min(first, second, third)
-# print("Max is :- ", maximum)
-# print("Min is :- ", minimum)
+first = input('Enter first number')
+second = input('Enter Second number')
+third = input('Enter Third number')
+maximum = max(first, second, third)
+minimum = min(first, second, third)
+print("Max is :- ", maximum)
+print("Min is :- ", minimum)
 
 #round() example
 income = float(input('enter your annual income'))  
