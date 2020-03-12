@@ -16,3 +16,10 @@ def display(num):
     print('Hello World')
 
 display(5)
+
+#more than one params
+def sum(a, b, c):
+  c = a + b + c
+  return c
+s = sum(1, 2, 3)
+print('sum=', s)
